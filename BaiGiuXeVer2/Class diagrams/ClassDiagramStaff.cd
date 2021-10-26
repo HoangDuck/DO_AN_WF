@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BaiGiuXeVer2.Classes.ChiPhi.ChiPhi" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAQEAAAEiAAAAAiAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ChiPhi\ChiPhi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Classes.KhachHang.KhachHang" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIACAAAAAAAAAQAAAAAEAAAAABAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\KhachHang\KhachHang.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Classes.NhanVien.NhanVien" Collapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAEBAAEAAAAgggwAAACAQgAAAAADgBAAAAIgAAAAAA=</HashCode>
+      <FileName>Classes\NhanVien\NhanVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Classes.NhanVien.QuanLy" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABABAAEAAAAAAAAAIAAAAAQAABAAAAAAAAEBARQEBQ=</HashCode>
+      <FileName>Classes\NhanVien\QuanLy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Classes.TGGuiXe.ThoiGianGuiXe" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAIAAAQAAAAQQQEAAEEBAAIAAAAAA=</HashCode>
+      <FileName>Classes\TGGuiXe\ThoiGianGuiXe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Classes.Xe.Xe" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACgEIAAoBCgAAAIQAEAAIAAQAABAAAAAASABCQFgA=</HashCode>
+      <FileName>Classes\Xe\Xe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Forms.Login.Login" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAEhACAAAAAAAACABAQSEoAAAQAgAEAACAgAACA=</HashCode>
+      <FileName>Forms\Login\Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Forms.Registers.RegisterWorkers" Collapsed="true">
+    <Position X="10" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAABAAIgECAQYBAEAACBAAQCAACABBBAARAAAgIAYgA=</HashCode>
+      <FileName>Forms\Registers\RegisterWorkers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Forms.Workers.DoanhThu.ChiTiet" Collapsed="true">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAgQAAAgCABAAAACACABAECMAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\Workers\DoanhThu\ChiTiet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Forms.Workers.DoanhThu.DoanhThu" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAAAAACACABAgCEAAAACAAAAAAAAABIAI=</HashCode>
+      <FileName>Forms\Workers\DoanhThu\DoanhThu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Forms.Workers.KhachHang.DanhSachKH" Collapsed="true">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAACBDEBAACBCACgAAAAAACAAAAAAA=</HashCode>
+      <FileName>Forms\Workers\KhachHang\DanhSachKH.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Forms.Workers.KhachHang.SuaThongTinKH" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEAAAAAACBAAliACADAABACDCAAgAAAAAAAQIAAABA=</HashCode>
+      <FileName>Forms\Workers\KhachHang\SuaThongTinKH.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Forms.Workers.Luong" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAIAAAAAACAAAACAAAAAAACAAAAAIAAAIA=</HashCode>
+      <FileName>Forms\Workers\Luong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Forms.Workers.Menu" Collapsed="true">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAwDCAUJgCEAQhAIDIKgAAACBwQBgMAOGABQCAABQwQ=</HashCode>
+      <FileName>Forms\Workers\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Forms.Workers.ThongTinNV.ThongTinNV" Collapsed="true">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAIgACBA4hAEAACAAAACAAAABBBCABAAAAAAYgA=</HashCode>
+      <FileName>Forms\Workers\ThongTinNV\ThongTinNV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Forms.Workers.TKB.TKB" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAQAgAAACAAEAAAAQCAAAACAAAAgFoCAAAAAAAAQAA=</HashCode>
+      <FileName>Forms\Workers\TKB\TKB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Forms.Workers.Xe.ChonXe" Collapsed="true">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAgCAAAAAACACAAAACAABAAAAIADACACEAAAA=</HashCode>
+      <FileName>Forms\Workers\Xe\ChonXe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Forms.Workers.Xe.DanhSachXe" Collapsed="true">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAABMAACAAAAAACACAAAACEABCgAAAAAASACAAQAA=</HashCode>
+      <FileName>Forms\Workers\Xe\DanhSachXe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Forms.Workers.Xe.InDSXe" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\Workers\Xe\InDSXe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Forms.Workers.Xe.SuaThongTinXe" Collapsed="true">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KAIBCBABAiECSAAACADAAAACAghBIACAADEAQCAAAEA=</HashCode>
+      <FileName>Forms\Workers\Xe\SuaThongTinXe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Forms.Workers.Xe.ThemXe" Collapsed="true">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEABAJAAACAgCIAICCHAABACEAhBgQCAALAQIKAAAEA=</HashCode>
+      <FileName>Forms\Workers\Xe\ThemXe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Forms.Workers.Xe.ThongKe" Collapsed="true">
+    <Position X="10" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAgCEAgCCABEABCACAAAACKAAAABAgAAAAACAAAAA=</HashCode>
+      <FileName>Forms\Workers\Xe\ThongKe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Forms.Workers.Xe.TraXe" Collapsed="true">
+    <Position X="8.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAgCAAAAAAAACAAAACAABAAAAIADAAACEAAAA=</HashCode>
+      <FileName>Forms\Workers\Xe\TraXe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.MyDB.MyDBParkLogin" Collapsed="true">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAIAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyDB\MyDBParkLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.MyDB.MyDBXe" Collapsed="true">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAABAAAQAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyDB\MyDBXe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.MyDB.MyDBChuyenMon" Collapsed="true">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAIAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyDB\MyDBChuyenMon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

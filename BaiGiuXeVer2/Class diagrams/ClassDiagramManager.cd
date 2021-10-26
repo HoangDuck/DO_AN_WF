@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BaiGiuXeVer2.Classes.NhanVien.NhanVien" Collapsed="true">
+    <Position X="1.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAEBAAEAAAAgggwAAACAQgAAAAADgBAAAAIgAAAAAA=</HashCode>
+      <FileName>Classes\NhanVien\NhanVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Classes.NhanVien.QuanLy" Collapsed="true">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABABAAEAAAAAAAAAIAAAAAQAABAAAAAAAAEBARQEBQ=</HashCode>
+      <FileName>Classes\NhanVien\QuanLy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Classes.Xe.Xe" Collapsed="true">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACgEIAAoBCgAAAIQAEAAIAAQAABAAAAAASABCQFgA=</HashCode>
+      <FileName>Classes\Xe\Xe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Forms.Login.Login" Collapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAEhACAAAAAAAACABAQSEoAAAQAgAEAACAgAACA=</HashCode>
+      <FileName>Forms\Login\Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Forms.Managers.MenuManagers" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iEFRABAYCCQAEBAADQCgIABCHARAwNqAAAUggGCA4oQ=</HashCode>
+      <FileName>Forms\Managers\MenuManagers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Forms.Managers.XoaNV" Collapsed="true">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCAAAACAAAAAAAACAAAACAAAAIAAAABAAgAAAAAA=</HashCode>
+      <FileName>Forms\Managers\XoaNV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.Forms.Registers.RegisterManagers" Collapsed="true">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAABAAAAECAAIAAACACBACQCDACABBBAARAAggIAIAA=</HashCode>
+      <FileName>Forms\Registers\RegisterManagers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.MyDB.MyDBChuyenMon" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAIAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyDB\MyDBChuyenMon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.MyDB.MyDBParkLogin" Collapsed="true">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAIAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyDB\MyDBParkLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiGiuXeVer2.MyDB.MyDBXe" Collapsed="true">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAABAAAQAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyDB\MyDBXe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
